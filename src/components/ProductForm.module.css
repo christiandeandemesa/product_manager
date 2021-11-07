@@ -1,0 +1,21 @@
+.flexBox {
+    height: 100vh;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form {
+    width: 25%;
+}
+.field {
+    background-color: lightgrey;
+    padding: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn {
+    background-color: lightgrey;
+    width: 40%;
+}
